@@ -4,7 +4,7 @@
   "parameters": {
     "hostingPlanName": {
       "value": "Plam9"
-    }
+    },
     "webSiteName": {
       "value": "DotNetAppV9"
     }
