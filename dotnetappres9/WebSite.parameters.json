@@ -3,7 +3,10 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "hostingPlanName": {
-      "value": null
+      "value": "Plam9"
+    }
+    "webSiteName": {
+      "value": "DotNetAppV9"
     }
   }
 }
